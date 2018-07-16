@@ -1,0 +1,5 @@
+db.sqlite3
+blog/migrations/
+blog/__pycache__/
+blog/admin.py
+blog/models.py
